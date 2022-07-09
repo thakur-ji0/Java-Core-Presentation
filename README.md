@@ -1,3 +1,2 @@
 # Java-Core-Presentation
-Java depth diving 
-hello
+Java depth 
